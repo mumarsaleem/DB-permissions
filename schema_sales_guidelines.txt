@@ -1,0 +1,3 @@
+-- adding sales schema resources / tables / objects etc.,
+
+-- and keeping track of permissions. 
