@@ -1,0 +1,4 @@
+Here are some guidelines 
+1. to keep permissions intact 
+2. and roles / groups properly tied with permissions guidelines 
+3. and most important, use the groups and roles instead of stand-alone users.
